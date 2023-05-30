@@ -1,2 +1,3 @@
 # studylog_sqld
-env : mssql
+DBP env : MsSQL , Oracle SQL, MySQL
+SQLD env : MsSQL
