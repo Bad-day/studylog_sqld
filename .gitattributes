@@ -1,3 +1,0 @@
-sql/**/*.sql linguist-detectable=true
-demo/** linguist-documentation=false
-demo/** linguist-vendored=false
